@@ -1,4 +1,7 @@
-# todolist
-its an todo list 
+#WEATHER APPLICATION
 
-working in the working the insight and making the light and called the telegram of all the right and sector of all the factual 
+hello eveyone, this is weather application using HTML , CSS ,JS.
+
+hope you guyz liked it, make sure not to forget to star the repo.
+
+happy coding:)
